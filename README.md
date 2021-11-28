@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @sucharita1
+# Hi, I’m @sucharita :wave: :woman_technologist:
+
 - I am interested in Python, SQL, R, Big Data, Machine Learning
 
 
