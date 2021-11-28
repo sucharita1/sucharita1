@@ -1,6 +1,6 @@
 # Hi, I’m @sucharita :wave: :woman_technologist:
+<img src = "https://github.com/sucharita1/sucharita1/blob/abedd3b5006bf3057e70986689c82854818f0fc2/data%20analyst.png" width = "1000" height = "300" />
 
-- I am interested in Python, SQL, R, Big Data, Machine Learning
 
 
 <!---
