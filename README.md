@@ -1,5 +1,5 @@
 # Hi, I’m Sucharita :wave: :woman_technologist:
-<img src = "https://github.com/sucharita1/sucharita1/blob/abedd3b5006bf3057e70986689c82854818f0fc2/data%20analyst.png" width = "1000" height = "300" />
+<img src = "https://github.com/sucharita1/sucharita1/blob/afa5f0acd59aecc037b2ab671606f6c7a8803b73/Data_Analyst.png" width = "700" height = "300" />
 
 
 ## I am interested in:
