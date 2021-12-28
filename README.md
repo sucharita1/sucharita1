@@ -1,5 +1,5 @@
 # Hi, I’m Sucharita :wave:
-<img src = "https://github.com/sucharita1/sucharita1/blob/afa5f0acd59aecc037b2ab671606f6c7a8803b73/Data_Analyst.png" width = "700" height = "300" />
+![Data_Analyst](https://github.com/sucharita1/sucharita1/blob/5b20770ce4641f4e14c64445a1406e83a7d305e7/Data_Analyst.png?raw=true)
 
 <!---
 sucharita1/sucharita1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
